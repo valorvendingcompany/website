@@ -16,3 +16,6 @@ body {
 	background-color: #000000;
 	border-color: #000000;
 }
+.text-column {
+	max-width: 50%;
+}
