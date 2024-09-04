@@ -18,10 +18,9 @@ body {
 	border-color: #000000;
 }
 .text-column {
-	max-width: 50%;
-}
-p {
-	align-self: center;
+	max-width: 100%;
 	font-size: calc(1em + 1vw);
-	text-align: center;
+	padding-top: 1rem;
+	padding-left: 3rem;
+	padding-right: 3rem;
 }
