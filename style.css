@@ -19,7 +19,7 @@ body {
 }
 .text-column {
 	max-width: 100%;
-	font-size: calc(1em + 1vw);
+	font-size: 50px;
 	padding-top: 1rem;
 	padding-left: 3rem;
 	padding-right: 3rem;
