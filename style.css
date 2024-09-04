@@ -13,6 +13,7 @@ body {
   	width: 70%;
 	margin-bottom: 15px;
 	background-color: #00bf63;
+	font-size: 3rem;
 	}
 .btn:hover{
 	background-color: #0cc0df;
