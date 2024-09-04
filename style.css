@@ -10,7 +10,7 @@ body {
 	max-height: 60%;
 }
 .need-vending-image {
-	object-fit: fill;
+	max-width: 100%;
 }
 .btn {
 	border-radius: 1.3rem;
