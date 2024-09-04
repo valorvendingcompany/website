@@ -20,3 +20,7 @@ body {
 .text-column {
 	max-width: 50%;
 }
+p {
+	font-size: calc(1em + 1vw);
+	text-align: center;
+}
