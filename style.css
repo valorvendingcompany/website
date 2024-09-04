@@ -12,6 +12,10 @@ body {
   	width: 70%;
 	font-size: 50px;
 	margin-bottom: 15px;
+	background-color: #0cc0df;
+}
+.btn:hover{
+	background-color: #00bf63;
 }
 .torres-link {
 	background-color: #000000;
@@ -19,7 +23,7 @@ body {
 }
 .text-column {
 	max-width: 100%;
-	font-size: 50px;
+	font-size: 30px;
 	padding-top: 1rem;
 	padding-left: 3rem;
 	padding-right: 3rem;
