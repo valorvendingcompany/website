@@ -13,6 +13,22 @@ body {
 	max-width: 95%;
 	object-fit: contain;
 }
+.socials-image {
+	max-width: 95%;
+	object-fit: contain;
+}
+.products-image {
+	max-width: 95%;
+	object-fit: contain;
+}
+.machines-image {
+	max-width: 95%;
+	object-fit: contain;
+}
+.about-us-image {
+	max-width: 95%;
+	object-fit: contain;
+}
 .btn {
 	border-radius: 1.3rem;
   	width: 70%;
